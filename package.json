@@ -15,7 +15,7 @@
     "deploy": "npm run build:example && gh-pages -d build-site"
   },
   "peerDependencies": {
-    "react": "^17.0.1"
+    "react": "^18.0.1"
   },
   "targets": {
     "gh-pages": {
